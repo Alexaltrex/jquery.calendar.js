@@ -1,0 +1,4 @@
+$(function () {
+    $('.some-div').jqueryCalendar();
+
+});
