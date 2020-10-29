@@ -5,7 +5,7 @@
 Плагин jQuery - календарь
 
 
-<img src="img/gh01.jpg" width="600">
+<img src="img/gh01.jpg" width="400">
 
 ## Запуск проекта:
 1. Клонирование и запуск: git clone https://github.com/Alexaltrex/jquery.calendar.js.git;
